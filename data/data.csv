@@ -1,0 +1,26 @@
+avg,year,data,num_episodes,most_watched,season,total_viewers,c1,c2,c3
+27.8,1990,Actual,13,"""Life on the Fast Lane""",1,33.5,86,154,224
+24.4,1991,Actual,22,"""Bart Gets an F""",2,33.6,86,154,224
+21.8,1992,Actual,24,"""Colonel Homer""",3,25.5,86,154,224
+22.4,1993,Actual,22,"""Lisa's First Word""",4,28.6,86,154,224
+18.9,1994,Actual,22,"""Treehouse of Horror IV""",5,24,86,154,224
+15.6,1995,Actual,25,"""Treehouse of Horror V""",6,22.2,86,154,224
+15.1,1996,Actual,25,"""Treehouse of Horror VI""",7,19.7,86,154,224
+14.5,1997,Actual,25,"""The Springfield Files""",8,20.9,86,154,224
+16.3,1998,Actual,25,"""The Two Mrs. Nahasapeemapetilons""",9,19.8,86,154,224
+15.9,1999,Estimated,23,"""Maximum Homerdrive""",10,15.5,124,116,111
+15.1,2000,Estimated,22,"""The Mansion Family""",11,18.4,124,116,111
+15.5,2001,Actual,21,"""Worst Episode Ever""",12,18.6,86,154,224
+12.5,2002,Actual,22,"""The Parent Rap""",13,14.9,86,154,224
+14.4,2003,Actual,22,"""I'm Spelling as Fast as I Can""",14,22.1,86,154,224
+11,2004,Actual,22,"""I, (Annoyed Grunt)-Bot""",15,16.3,86,154,224
+10.2,2005,Actual,21,"""Homer and Ned's Hail Mary Pass""",16,23.1,86,154,224
+9.6,2006,Actual,22,"""Treehouse of Horror XVI""",17,11.6,86,154,224
+9.2,2007,Actual,22,"""The Wife Aquatic""",18,13.9,86,154,224
+8.4,2008,Actual,20,"""Treehouse of Horror XVIII""",19,11.7,86,154,224
+7.1,2009,Actual,21,"""Treehouse of Horror XIX""",20,12.4,86,154,224
+7.1,2010,Actual,23,"""Once Upon a Time in Springfield""",21,14.6,86,154,224
+7.1,2011,Actual,22,"""Moms I'd Like to Forget""",22,12.6,86,154,224
+6.2,2012,Actual,22,"""The D'oh-cial Network""",23,11.5,86,154,224
+5.4,2013,Actual,22,"""Homer Goes to Prep School""",24,9,86,154,224
+5,2014,Actual,22,"""Steal This Episode""",25,12,86,154,224
